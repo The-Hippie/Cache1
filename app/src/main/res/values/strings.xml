@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cache1</string>
+    <string name="mi_test">Mi test</string>
+    <string name="usuario">Usuario</string>
+    <string name="constrase_a">Constraseña</string>
+    <string name="digita_tu_contrase_a">Digita tu contraseña</string>
+    <string name="inciar_sesion">Inciar sesion</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+</resources>
